@@ -1,5 +1,4 @@
-{
-    "eventSchedule": [
+[
         {
             "eventName": "Doors Open!",
             "start": "08.00"
@@ -48,4 +47,3 @@
             "end": "19.00"
         }
     ]
-}
