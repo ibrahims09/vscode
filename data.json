@@ -1,0 +1,51 @@
+{
+    "eventSchedule": [
+        {
+            "eventName": "Doors Open!",
+            "start": "08.00"
+        },
+        {
+            "eventName": "Welcome Speech",
+            "start": "08.30",
+            "end": "09.00"
+        },
+        {
+            "eventName": "Learning To Crack The Truth Of JS",
+            "start": "09.00",
+            "end": "11.00",
+            "eventInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam veritatis at amet dolor labore praesentium voluptatem in nulla, inventore accusamus pariatur molestiae. Nisi voluptate sint eius cupiditate! Ipsam, voluptatibus illum?"
+        },
+        {
+            "eventName": "Lunch",
+            "start": "11.00",
+            "end": "12.00"
+        },
+        {
+            "eventName": "CEO - Jensen Laursen Speaks About Agile Working Methods",
+            "start": "12.00",
+            "end": "14.00",
+            "eventInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam veritatis at amet dolor labore praesentium voluptatem in nulla, inventore accusamus pariatur molestiae. Nisi voluptate sint eius cupiditate! Ipsam, voluptatibus illum?"
+        },
+        {
+            "eventName": "Coffee Break",
+            "start": "14.00",
+            "end": "14.30"
+        },
+        {
+            "eventName": "JSON - The Modern Way Of DOM Manipulating",
+            "start": "14.30",
+            "end": "16.00",
+            "eventInfo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam veritatis at amet dolor labore praesentium voluptatem in nulla, inventore accusamus pariatur molestiae. Nisi voluptate sint eius cupiditate! Ipsam, voluptatibus illum?"
+        },
+        {
+            "eventName": "Dinner",
+            "start": "16.00",
+            "end": "17.00"
+        },
+        {
+            "eventName": "After-Code Marathon Session",
+            "start": "17.00",
+            "end": "19.00"
+        }
+    ]
+}
