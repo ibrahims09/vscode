@@ -1,12 +1,15 @@
 [
         {
             "eventName": "Doors Open!",
-            "start": "08.00"
+            "start": "08.00",
+            "end": "",
+            "eventInfo": ""
         },
         {
             "eventName": "Welcome Speech",
             "start": "08.30",
-            "end": "09.00"
+            "end": "09.00",
+            "eventInfo": ""
         },
         {
             "eventName": "Learning To Crack The Truth Of JS",
@@ -17,7 +20,8 @@
         {
             "eventName": "Lunch",
             "start": "11.00",
-            "end": "12.00"
+            "end": "12.00",
+            "eventInfo": ""
         },
         {
             "eventName": "CEO - Jensen Laursen Speaks About Agile Working Methods",
@@ -28,7 +32,8 @@
         {
             "eventName": "Coffee Break",
             "start": "14.00",
-            "end": "14.30"
+            "end": "14.30",
+            "eventInfo": ""
         },
         {
             "eventName": "JSON - The Modern Way Of DOM Manipulating",
@@ -39,12 +44,14 @@
         {
             "eventName": "Dinner",
             "start": "16.00",
-            "end": "17.00"
+            "end": "17.00",
+            "eventInfo": ""
         },
         {
             "eventName": "After-Code Marathon Session",
             "start": "17.00",
-            "end": "19.00"
+            "end": "19.00",
+            "eventInfo": ""
         }
     ]
 
