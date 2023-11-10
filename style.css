@@ -1,9 +1,12 @@
 body {
     text-align: center;
-    
+    background-color: goldenrod;
+
     
 }
 
 #picture {
     max-width: 30%;
 }
+
+
